@@ -1,0 +1,10 @@
+{
+    "name": "mouhameddiop06/plateforme_isti",
+    "description": "A description of your project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
