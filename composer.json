@@ -1,6 +1,7 @@
 {
     "name": "mouhameddiop06/plateforme_isti",
     "description": "A description of your project",
+    "license": "proprietary",
     "require": {
         "php": ">=7.4"
     },
